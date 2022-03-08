@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("third git");
         System.out.println("fourth git");
         System.out.println("fourth git4");
+        System.out.println("hot-fix git4");
     }
 }
